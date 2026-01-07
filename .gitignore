@@ -1,0 +1,20 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.Python
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (do not commit raw Yelp JSON)
+data/raw/
+data/processed/
+
+# Outputs
+results/
+figures/
+*.log
